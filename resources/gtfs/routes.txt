@@ -1,0 +1,3 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,continuous_pickup,continuous_drop_off
+A,agency001,17,Mission,"The ""A"" route travels from lower Mission to Downtown.",3,"http://route.url",3,2
+A,agency001,17,Mission,"The ""A"" route travels from lower Mission to Downtown.",3,"http://route.url",,
